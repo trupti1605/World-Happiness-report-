@@ -1,7 +1,7 @@
 # World-Happiness-report-
 Data analysis for world happiness dataset 
-
-Data columns in the dataset 
+### Introduction 
+- Data columns in the dataset 
 
 Country              object
 
@@ -27,18 +27,18 @@ Job Satisfaction    float64
 
 Region              object
 
-What is Dystopia?
+-What is Dystopia?
 Dystopia is an imaginary country that has the world’s least-happy people. The purpose in establishing Dystopia is to have a benchmark against which all countries can be favorably compared (no country performs more poorly than Dystopia) in terms of each of the six key variables, thus allowing each sub-bar to be of positive width. 
 
-Tasks performed 
+### Tasks performed 
 
-A)Importing datasethe
+- A)Importing datasethe
 
-B)Data Wrangling
+- B)Data Wrangling
 
-C)Exploratory data analysis 
+- C)Exploratory data analysis 
 
-D)Machine learning techniques 
+- D)Machine learning techniques 
 
 1.Random forest classification 
 

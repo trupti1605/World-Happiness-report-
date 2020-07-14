@@ -3,31 +3,32 @@ Data analysis for world happiness dataset
 ### Introduction 
 - Data columns in the dataset 
 
-Country              object
+1)Country                        object
 
-Happiness Rank      int64
+2)Happiness Rank                  int64
 
-Happiness Score     float64
+3)Happiness Score               float64
 
-Economy             float64
+4)Economy                       float64
 
-Family              float64
+5)Family                        float64
+   
+6)Health                        float64
 
-Health              float64
+7)Freedom                       float64
 
-Freedom             float64
+8)Generosity                    float64
 
-Generosity          float64
+9)Corruption                    float64
 
-Corruption          float64
+10)Dystopia                     float64
 
-Dystopia            float64
+11)Job Satisfaction             float64
 
-Job Satisfaction    float64
-
-Region              object
+12)Region                       object
 
 - What is Dystopia?
+
 Dystopia is an imaginary country that has the world’s least-happy people. The purpose in establishing Dystopia is to have a benchmark against which all countries can be favorably compared (no country performs more poorly than Dystopia) in terms of each of the six key variables, thus allowing each sub-bar to be of positive width. 
 
 ### Tasks performed 

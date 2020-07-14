@@ -3,29 +3,29 @@ Data analysis for world happiness dataset
 ### Introduction 
 - Data columns in the dataset 
 
-1)Country                        object
+1)Country              -          object
 
-2)Happiness Rank                  int64
+2)Happiness Rank       -           int64
 
-3)Happiness Score               float64
+3)Happiness Score      -         float64
 
-4)Economy                       float64
+4)Economy              -         float64
 
-5)Family                        float64
+5)Family               -         float64
    
-6)Health                        float64
+6)Health               -         float64
 
-7)Freedom                       float64
+7)Freedom              -         float64
 
-8)Generosity                    float64
+8)Generosity           -         float64
 
-9)Corruption                    float64
+9)Corruption           -         float64
 
-10)Dystopia                     float64
+10)Dystopia            -         float64
 
-11)Job Satisfaction             float64
+11)Job Satisfaction    -         float64
 
-12)Region                       object
+12)Region              -         object
 
 - What is Dystopia?
 
